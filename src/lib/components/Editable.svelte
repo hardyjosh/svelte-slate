@@ -1030,6 +1030,6 @@
 		position: relative;
 		outline: none;
 		word-wrap: break-word;
-		white-space: pre-wrap;
+		white-space: pre-line;
 	}
 </style>
